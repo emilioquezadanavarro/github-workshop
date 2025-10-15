@@ -1,2 +1,2 @@
 # github-workshop
-Workshop - October
+Workshop - October - How to create a repository
